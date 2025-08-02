@@ -1,5 +1,5 @@
 <script>
-  let isMobileLayout = false; // Allow for easier testing
+  import recipeImg from '/image-omlette.jpeg'
 </script>
 
 <style>
@@ -86,7 +86,7 @@
 
 <div class="justify-between text-left text-(--stone-600) md:mx-0 -mx-4">
   <img
-      src="../assets/images/image-omelette.jpeg"
+      src="{recipeImg}"
       alt="Recipe"
       class="w-screen object-cover md:w-full md:max-w-full md:ml-0 md:mr-0 rounded-none md:rounded-xl"
   >
