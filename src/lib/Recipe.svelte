@@ -1,5 +1,5 @@
 <script>
-  const recipeImg = import.meta.env.BASE_URL + 'image-omlette.jpeg';
+  const recipeImg = import.meta.env.BASE_URL + 'image-omelette.jpeg';
 </script>
 
 <style>
